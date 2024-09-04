@@ -36,12 +36,13 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-hassaan&show_icons=true&locale=en&layout=compact" alt="dev-hassaan" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-hassaan&show_icons=true&locale=en" alt="dev-hassaan" />
+  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-hassaan&show_icons=true&locale=en" alt="dev-hassaan" />
 </p>
   
 </div>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hassaan&" alt="dev-hassaan" />
+  <img width="810px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hassaan&" alt="dev-hassaan" />
 </p>
 
 
