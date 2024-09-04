@@ -45,5 +45,5 @@
   <img width="810px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-hassaan&" alt="dev-hassaan" />
 </p>
 
-
+<a href="https://app.daily.dev/devhassaan"><img width="810px" src="https://api.daily.dev/devcards/v2/yJxbu1zP2O7IgsLxzel6L.png?type=wide&r=9yx" width="652" alt="Hassaan's Dev Card"/></a>
 
