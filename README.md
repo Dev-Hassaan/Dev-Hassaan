@@ -7,25 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-hassaan" alt="dev-hassaan" /></a> </p>
 
-- 🔭 I’m currently working on **Florex**
-
-- 🌱 I’m currently learning **Asp and Flutter**
-
-- 👯 I’m looking to collaborate on **Florex**
-
-- 🤝 I’m looking for help with **Florex**
-
-- 💬 Ask me about **React and Laravel**
-
-- 📫 How to reach me **syedhassaan720@gmail.com**
-
-- ⚡ Fun fact **I am kinda Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23353522/syed-muhammad-hassaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23353522/syed-muhammad-hassaan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@elitecoder7/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@elitecoder7/featured" height="30" width="40" /></a>
-<a href="https://discord.gg/hassaan420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hassaan420" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23353522/syed-muhammad-hassaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23353522/syed-muhammad-hassaan" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/@elitecoder7/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@elitecoder7/featured" height="30" width="40" /></a>
+  <a href="https://discord.gg/eXpjvCjKYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hassaan420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
