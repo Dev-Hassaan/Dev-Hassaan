@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hassaan</h1>
 <h3 align="left">A passionate Frontend Developer from Pakistan</h3>
 
-
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-hassaan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-hassaan" /> </p>
 
