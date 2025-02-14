@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"> <a href="https://github.com/dev-hassaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@elitecoder7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">✨ I am a skilled developer who can do Web Development and Mobile Application Development</h3>**
+ **<h3 align="left">✨ I am a skilled developer who can do Web Development and Mobile Application Development 🛠</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
